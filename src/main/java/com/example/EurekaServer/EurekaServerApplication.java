@@ -13,3 +13,6 @@ public class EurekaServerApplication {
 	}
 
 }
+
+
+//eureka server
